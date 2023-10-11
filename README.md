@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AS2V hackathon, Freelance project**
 
-- 🌱 I’m currently learning **RL,NLP and Computer Visio**
+- 🌱 I’m currently learning **RL,NLP and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://bayacineportfolio.netlify.app/](https://bayacineportfolio.netlify.app/)
 
