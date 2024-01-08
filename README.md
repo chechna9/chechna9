@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chechna9" alt="chechna9" /></a> </p>
 
-- 🔭 I’m currently working on **AS2V hackathon, Freelance project**
+- 🔭 I’m currently working on **a Freelance project and my final year project**
 
 - 🌱 I’m currently learning **RL,NLP and Computer Vision**
 
