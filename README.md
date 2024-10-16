@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chechna9" alt="chechna9" /></a> </p>
 
-- 🔭 I’m currently working on **a Freelance project and my final year project**
-
-- 🌱 I’m currently learning **RL,NLP and Computer Vision**
-
 - 👨‍💻 All of my projects are available at [https://bayacineportfolio.netlify.app/](https://bayacineportfolio.netlify.app/)
 
 - My Kaggle profile  https://www.kaggle.com/chechna9
