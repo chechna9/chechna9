@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yacine</h1>
-<h3 align="center">Final year Ai and Ds student</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chechna9&label=Profile%20views&color=0e75b6&style=flat" alt="chechna9" /> </p>
 
